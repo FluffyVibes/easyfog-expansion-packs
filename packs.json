@@ -101,6 +101,17 @@
       "asset_count": 1
     },
     {
+      "id": "Smaller_pack",
+      "name": "Smaller Pack",
+      "description": "Medium smoke VDB effect",
+      "price": "",
+      "thumbnail_url": "https://raw.githubusercontent.com/FluffyVibes/easyfog-expansion-packs/main/Thumbnails/MAGIC.2.png",
+      "download_url": "https://www.dropbox.com/scl/fi/lu48u2febmelhjn8rb3ku/SmallerPack.zip?rlkey=rq6h3v0vab3eud14t0nsa2i07&st=q4789bji&dl=1",
+      "size_mb": 7600,
+      "zipped_size_mb": 2300,
+      "asset_count": 1
+    },
+    {
       "id": "smoke_3",
       "name": "Smoke.3",
       "description": "Light smoke VDB effect",
