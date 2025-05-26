@@ -20,6 +20,16 @@
       "download_url": "https://www.dropbox.com/...",
       "size_mb": 120,
       "asset_count": 20
+    },
+    {
+      "id": "weather_pack",
+      "name": "Weather Pack",
+      "description": "Weather effects including clouds, rain, and snow",
+      "price": "$29.99",
+      "thumbnail_url": "https://raw.githubusercontent.com/FluffyVibes/easyfog-expansion-packs/main/thumbnails/weather_pack.jpg",
+      "download_url": "https://www.dropbox.com/YOUR_WEATHER_PACK_LINK",
+      "size_mb": 200,
+      "asset_count": 30
     }
   ]
 }
