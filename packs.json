@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "packs": [
+    {
+      "id": "fire_explosion_pack",
+      "name": "Fire & Explosion Pack",
+      "description": "Collection of high-quality fire and explosion VDB assets",
+      "price": "$24.99",
+      "thumbnail_url": "https://raw.githubusercontent.com/YOUR_USERNAME/easyfog-expansion-packs/main/thumbnails/fire_pack.jpg",
+      "download_url": "https://www.dropbox.com/scl/fi/lu48u2febmelhjn8rb3ku/SmallerPack.zip?rlkey=rq6h3v0vab3eud14t0nsa2i07&st=zy97hr94&dl=1",
+      "size_mb": 150,
+      "asset_count": 25
+    },
+    {
+      "id": "smoke_fog_pack",
+      "name": "Smoke & Fog Pack",
+      "description": "Professional smoke and fog VDB assets for your scenes",
+      "price": "$19.99",
+      "thumbnail_url": "https://raw.githubusercontent.com/YOUR_USERNAME/easyfog-expansion-packs/main/thumbnails/smoke_pack.jpg",
+      "download_url": "https://www.dropbox.com/...",
+      "size_mb": 120,
+      "asset_count": 20
+    }
+  ]
+}
